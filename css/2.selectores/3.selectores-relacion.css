@@ -1,0 +1,39 @@
+header p {
+    color: red;
+}
+
+header .b-juan {
+    color: #008000;
+}
+
+footer p {
+    color: blue;
+}
+
+p.b-juan {
+    color: coral;
+}
+
+p {
+    color: violet;
+}
+
+/* Como deberia ser */
+
+.b-text{
+    color: red;
+}
+
+.b-text-sec {
+    color: rgb(121, 41, 9)
+}
+
+
+
+/* h4{
+    font-size: 24px;
+} */
+
+.b-title{
+    font-size: 24px;
+}
