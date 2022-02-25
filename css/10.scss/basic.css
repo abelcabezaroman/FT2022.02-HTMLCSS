@@ -1,0 +1,19 @@
+:root {
+  --color-primary: salmon;
+}
+
+.b-text {
+  --spacing: 10px;
+  font-family: Arial;
+  color: var(--color-primary);
+  text-transform: uppercase;
+  font-size: 24px;
+  background-color: #fff;
+  margin: var(--spacing);
+  padding: var(--spacing);
+}
+
+.b-button {
+  color: var(--color-primary);
+}
+/*# sourceMappingURL=basic.css.map */
