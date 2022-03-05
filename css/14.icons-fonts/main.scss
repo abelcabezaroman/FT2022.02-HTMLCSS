@@ -1,0 +1,16 @@
+@import "assets/icons/variables.css";
+@import "assets/icons/style.css";
+
+.b-text{
+    font-size: 24px;
+    color: #333;
+    &--light{
+        color: aquamarine;
+    }
+    &--xl{
+        font-size: 48px;
+    }
+    &--l{
+        font-size: 32px;
+    }
+}

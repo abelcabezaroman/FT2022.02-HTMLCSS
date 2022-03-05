@@ -1,0 +1,19 @@
+@import url(/Users/abelcabezaroman/Documents/FT2022.02/HTMLCSS/css/14.icons-fonts/assets/icons/variables.css);
+@import url(/Users/abelcabezaroman/Documents/FT2022.02/HTMLCSS/css/14.icons-fonts/assets/icons/style.css);
+.b-icon {
+  font-size: 24px;
+  color: #333;
+}
+
+.b-icon--light {
+  color: aquamarine;
+}
+
+.b-icon--xl {
+  font-size: 48px;
+}
+
+.b-icon--l {
+  font-size: 32px;
+}
+/*# sourceMappingURL=main.css.map */
